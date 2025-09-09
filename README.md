@@ -1,0 +1,2 @@
+# AutoGuard-IoT-Enabled-Smart-Wearable-for-Real-Time-Personal-Security
+Design a wearable IoT security system that detects distress signals (such as panic or  unconsciousness) in real time, autonomously triggers a series of security protocols (such as  alerting contacts, alerting authorities, or activating a loud alarm), and transmits location data for  a timely and coordinated emergency response. 
